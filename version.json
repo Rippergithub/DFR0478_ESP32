@@ -1,4 +1,4 @@
 {
-  "version": "1.5.0", // Cihazın mevcut versiyonundan daha yüksek bir versiyon
-  "url": "https://raw.githubusercontent.com/Rippergithub/DFR0478_ESP32/main/firmware_v1.5.0.bin" // Yükleyeceğiniz .bin dosyasının tam raw URL'si
+  "version": "1.5.0", // Cihazın OTA çekeceği yeni versiyon numarası
+  "url": "https://github.com/Rippergithub/DFR0478_ESP32/raw/refs/heads/main/Ota_v1.5.0.ino.firebeetle32.bin" // İşte doğru URL
 }
